@@ -4,6 +4,8 @@
 
 ---
 
+Copy and Paste these Commands on Codespace's Terminal One By One 
+
 ## 🔹 Step 1:
 
 ```bash
